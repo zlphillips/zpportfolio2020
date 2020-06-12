@@ -7,7 +7,8 @@ import Footer from './home/Footer';
 function App() {
   return (
     <div className="App">
-
+      <NavBar />
+      <Intro />
     </div>
   );
 }
