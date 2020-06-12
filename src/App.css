@@ -1,1 +1,5 @@
-@import "./index.css"
+@import "./index.css";
+
+.App {
+  background:  rgba( 60, 49,118,1);
+}
