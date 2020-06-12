@@ -1,8 +1,18 @@
 .intro {
-    text-align: center;
-    color: #ffffff;  
+    color: #ffffff;
+    font-family: 'M Plus 1p', sans-serif; 
 }
-
-#introHeadline {
+.jumbo {
+    padding-right: 175px;
+}
+#welcome {
     text-align: left;
+}
+.projectThumbnails {
+    width: 100%;
+}
+.cards {
+    margin: 8px;
+    margin-bottom: 12px;
+    text-align: center;
 }

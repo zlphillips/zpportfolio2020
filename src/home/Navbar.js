@@ -19,21 +19,12 @@ const NavBar = () => {
     return (
         <div className='navbar'>
             <Nav>
-            <NavBar>
-                <NavbarBrand className='logo'>ZP</NavbarBrand>
-                <NavItem id='projects'>
-                    <NavLink>Projects</NavLink>
-                </NavItem>
-                <NavItem id='packages'>
-                    <NavLink>Packages</NavLink>
-                </NavItem>
-                <NavItem id='credentials'>
-                    <NavLink>Credentials</NavLink>
-                </NavItem>
-                <NavItem id='about'>
-                    <NavLink>About</NavLink>
-                </NavItem>
-            </NavBar>
+                    <NavLink id='home'>Home</NavLink>
+                    <NavLink id='projects'>Projects</NavLink>
+                    <NavLink id='packages'>Packages</NavLink>
+                    <NavLink id='credentials'>Credentials</NavLink>
+                    <NavLink id='about'>About</NavLink>
+                    
             </Nav>
         </div>
     )

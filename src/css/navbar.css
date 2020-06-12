@@ -1,0 +1,30 @@
+
+.navbar {
+    color: #ffffff;
+    text-align: center;
+    background:  rgba(133,125,177,1);
+    margin: -10px;
+    padding: 1px;
+    font-family: 'M Plus 1p', sans-serif;
+}
+
+#projects {
+    padding: 10px;
+}
+
+#packages {
+    padding: 10px;
+}
+
+#credentials {
+    padding: 10px;
+}
+
+#about {
+    padding: 10px;
+}
+
+#home {
+    padding-right: 10px;
+    padding-left: 0px;
+}
