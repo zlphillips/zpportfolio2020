@@ -18,9 +18,8 @@ import {
 const NavBar = () => {
     return (
         <div className='navbar'>
-            
-        </div>
 
+        </div>
     )
 }
 
